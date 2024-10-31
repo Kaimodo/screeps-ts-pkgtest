@@ -1,6 +1,9 @@
-# screeps-ts-starter-mod2024
+# screeps-ts-pkgtest
 
 ![ ](https://screeps.com/images/logotype-animated.svg)
+
+## Code is for my internal testing only. if you search for my modded starter look ([here](https://github.com/Kaimodo/screeps-ts-starter-mod2024))
+
 
 ## What me added
 
